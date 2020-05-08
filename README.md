@@ -1,6 +1,18 @@
 
 # SOLUCIÓN: Rubí Rincón Peña (rojorubi@gmail.com)
 
+## Instalaciones previas si son necesarias
+
+Descargar http://maven.apache.org/install.html 
+
+```bash
+$ tar xzvf apache-maven-3.6.3-bin.tar.gz
+```
+
+```bash
+$ export PATH=/Library/apache-maven-3.6.3/bin:$PATH
+```
+
 ## Instrucciones para levantar y probar el microservicio
 
 ```bash
